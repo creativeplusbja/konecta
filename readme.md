@@ -1,30 +1,6 @@
-# Laradmin
+# Test de Konecta
 
-**Laradmin** es mi “personal pre.built" desarrollado haciendo uso de **Laravel 5.5** y la plantilla **AdminLTE** basada en Bootstrap 3,  para ser usada como base inicial en proyectos que necesitan el desarrollo de un panel de control o administrativo con gestión de usuarios con roles y permisos.
-
-El desarrollo  integra el sistema de autentificación por defecto de Laravel, y el uso del paquete spatie/laravel-permission cubriendo en la mayor medida:
-
-- CRUD de usuarios
-- Asignación de roles
-- Asignación de permisos a roles
-- Habilitar/deshabilitar acceso al usuario
-- Recuperación de contraseña por correo electrónico
-- Registro y listado de ingresos y salidas del sistema (logins)
-
-
-> La intención como  proyecto base es trabajar con los roles de administrador (con todos los permisos), y el de usuario normal (permisos asignados a este rol), la misma se puede modificar y /o ampliar según las necesidades del proyecto de manera manual, aprovechando los recursos que facilita el paquete **spatie/laravel-permission** para agregar mas roles de usuarios así como diversos permisos.
-
----
-
-## Requerimientos
-
-- [Composer](https://getcomposer.org/)
-- [Requerimientos de Laravel 5.5](https://laravel.com/docs/5.5/installation#installation)
-- [Node.js y NPM](https://nodejs.org/es/) (Opcional para trabajar y compilar  los assets con Laravel Mix)
-
----
-
-> Aviso **crear un virtual host** para este proyecto, **es necesario que el directorio public (como se aconseja) del framework funcione como la raíz**, o no funcionara la correcta lectura de las fuentes por parte de font awesome y otras librerias empleadas en este desarrollo.
+Este repositorio fue creado para el Test de Konecta
 
 ## Instalación
 
@@ -88,6 +64,6 @@ Para mayor información en el uso de **Laravel mix** visita la documentación en
 
 #### Créditos
 
-Jorge Vizcaya  
-Backend web developer  
-jorgevizcayaa@gmail.com | [@jvizcayaa](https://twitter.com/jvizcayaa)
+Elkin Nocua 
+web developer  
+creativeplusbja@gmail.com
